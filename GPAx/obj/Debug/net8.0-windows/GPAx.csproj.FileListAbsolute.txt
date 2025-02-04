@@ -1,0 +1,16 @@
+D:\Code\C#\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.exe
+D:\Code\C#\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.deps.json
+D:\Code\C#\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.runtimeconfig.json
+D:\Code\C#\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.dll
+D:\Code\C#\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.pdb
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.Form1.resources
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.csproj.GenerateResource.cache
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.AssemblyInfoInputs.cache
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.AssemblyInfo.cs
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.csproj.CoreCompileInputs.cache
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.dll
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\refint\GPAx.dll
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.pdb
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.genruntimeconfig.cache
+D:\Code\C#\GPAx\GPAx\obj\Debug\net8.0-windows\ref\GPAx.dll
